@@ -48,6 +48,6 @@ def tm_calc(seq):
     Tm_i = term1 +T
     Tm= Tm_i +16.6 * math.log10(CNa)
     return Tm
-seq=str(input("Your sequence: ))
+seq=str(input("Your sequence": ))
 result=tm_calc(seq)
 print(result)

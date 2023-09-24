@@ -1,5 +1,5 @@
 # TM_nn_calculation
-A python script to calculate the Tm of an ADN sequence based on the nearest neighbourg method.
+A python script to calculate the Tm (hybridation temperature) of an ADN sequence based on the nearest neighbourg method.
 
 To launch the program:
 ```{bash}
